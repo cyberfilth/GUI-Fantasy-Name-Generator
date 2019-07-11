@@ -1,0 +1,11 @@
+Fantasy name generator
+
+By editing the included text files you can create a wider range of names.
+
+markov_list.txt - add names to this list to use as source for the random names
+dwarven1.txt	- the first part of Dwarven clan names, follows a pattern like Battle, Iron etc
+dwarven2.txt	- the second part of Dwarven clan names, follows a pattern like Hammer, Striker etc
+elven1.txt		- first part of Elven cities, whispering woods of, green forests of.... etc
+elven2.txt		- second part of Elven cities, adds an Elvish sounding suffix to the names
+
+Created by Chris Hawkins = @CyberFilth, With thanks to Jez - @jezz_sully
